@@ -1,0 +1,11 @@
+#info-main {
+    height: 600px;
+    width: 100%;
+    background-color: grey;
+}
+
+.info-main-div {
+    height: 96%;
+    width: 46%;
+    margin: 2%;
+}

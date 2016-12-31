@@ -1,0 +1,15 @@
+.headerbar-container {
+    margin: 0px;
+    width: 100%;
+}
+
+.headerbar-item {
+    width: 25%;
+    height: 50px;
+    float: left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+    vertical-align: middle;
+}
